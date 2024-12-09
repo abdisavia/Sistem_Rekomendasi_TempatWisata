@@ -1,0 +1,301 @@
+User_Id,name,Location,Age
+1,Kelly Nguyen,"Semarang, Jawa Tengah",20
+2,Deborah Jones,"Bekasi, Jawa Barat",21
+3,Megan Mitchell,"Cirebon, Jawa Barat",23
+4,Russell Cooper,"Bekasi, Jawa Barat",21
+5,Janice Perez,"Lampung, Sumatera Selatan",20
+6,Walter Wright,"Jakarta Utara, DKI Jakarta",18
+7,Barbara Morris,"Jakarta Selatan, DKI Jakarta",39
+8,Steven Young,"Bandung, Jawa Barat",40
+9,Benjamin Ward,"Surabaya, Jawa Timur",38
+10,Janet Myers,"Bekasi, Jawa Barat",39
+11,Austin Diaz,"Yogyakarta, DIY",20
+12,Angela Gomez,"Bogor, Jawa Barat",37
+13,Jeremy Robinson,"Depok, Jawa Barat",18
+14,Kimberly Gray,"Jakarta Pusat, DKI Jakarta",26
+15,Amy Turner,"Jakarta Timur, DKI Jakarta",34
+16,Carolyn Flores,"Bekasi, Jawa Barat",40
+17,Lawrence Wood,"Semarang, Jawa Tengah",31
+18,Jeremy Fisher,"Yogyakarta, DIY",39
+19,Bobby Cook,"Cirebon, Jawa Barat",26
+20,Sandra Brown,"Lampung, Sumatera Selatan",30
+21,Nicholas Williams,"Semarang, Jawa Tengah",30
+22,Martha Davis,"Subang, Jawa Barat",25
+23,Samantha Jackson,"Jakarta Barat, DKI Jakarta",37
+24,Raymond Harris,"Bekasi, Jawa Barat",36
+25,Gregory Hall,"Lampung, Sumatera Selatan",40
+26,Gloria Murphy,"Palembang, Sumatera Selatan",38
+27,Jesse Baker,"Bogor, Jawa Barat",22
+28,Linda Stewart,"Sragen, Jawa Tengah",38
+29,Lori Jones,"Ponorogo, Jawa Timur",34
+30,Emma Hughes,"Depok, Jawa Barat",30
+31,Juan Thomas,"Jakarta Selatan, DKI Jakarta",26
+32,Ryan Foster,"Bekasi, Jawa Barat",34
+33,Danielle Phillips,"Ponorogo, Jawa Timur",24
+34,Pamela Stewart,"Sragen, Jawa Tengah",31
+35,Stephanie Morales,"Klaten, Jawa Tengah",24
+36,Frances Thomas,"Solo, Jawa Tengah",20
+37,Amy Hughes,"Tanggerang, Banten",21
+38,Logan Kelly,"Serang, Banten",26
+39,Lori Sanchez,"Cilacap, Jawa Tengah",32
+40,Walter Price,"Semarang, Jawa Tengah",27
+41,Mary Rogers,"Yogyakarta, DIY",24
+42,Arthur Murphy,"Kota Gede, DIY",37
+43,Kelly Martin,"Cirebon, Jawa Barat",33
+44,Shirley Mitchell,"Subang, Jawa Barat",21
+45,Natalie Collins,"Karawang, Jawa Barat",25
+46,Raymond Diaz,"Purwakarat, Jawa Barat",38
+47,George Clark,"Jakarta Utara, DKI Jakarta",31
+48,Jennifer Watson,"Jakarta Selatan, DKI Jakarta",35
+49,Jane Carter,"Jakarta Pusat, DKI Jakarta",24
+50,Amanda Diaz,"Bekasi, Jawa Barat",19
+51,Carol Diaz,"Bogor, Jawa Barat",29
+52,Helen King,"Karawang, Jawa Barat",18
+53,Jane Gomez,"Subang, Jawa Barat",28
+54,Lori Lopez,"Serang, Banten",31
+55,Joan Martinez,"Tanggerang, Banten",19
+56,Bryan Garcia,"Kota Gede, DIY",18
+57,Joan Roberts,"Yogyakarta, DIY",21
+58,Joseph Thompson,"Lampung, Sumatera Selatan",21
+59,Andrea Brown,"Ponorogo, Jawa Timur",26
+60,Jeffrey Long,"Surabaya, Jawa Timur",25
+61,Logan Gray,"Nganjuk, Jawa Timur",23
+62,Willie Rodriguez,"Madura, Jawa Timur",36
+63,Brenda Stewart,"Semarang, Jawa Tengah",35
+64,Austin Fisher,"Bandung, Jawa Barat",38
+65,Julie White,"Yogyakarta, DIY",22
+66,Carolyn Baker,"Bekasi, Jawa Barat",33
+67,Raymond Edwards,"Surabaya, Jawa Timur",25
+68,Mark Wilson,"Kota Gede, DIY",37
+69,Harold Wright,"Bekasi, Jawa Barat",24
+70,Barbara Taylor,"Bogor, Jawa Barat",21
+71,Frank Campbell,"Depok, Jawa Barat",39
+72,Carl Hill,"Tanggerang, Banten",19
+73,Kayla Collins,"Serang, Banten",29
+74,Jonathan Cox,"Semarang, Jawa Tengah",30
+75,William Rogers,"Bekasi, Jawa Barat",19
+76,Gregory Martinez,"Cirebon, Jawa Barat",19
+77,Jeremy Howard,"Bekasi, Jawa Barat",34
+78,Carl Ross,"Lampung, Sumatera Selatan",22
+79,Beverly Parker,"Jakarta Utara, DKI Jakarta",31
+80,Tiffany Morgan,"Jakarta Selatan, DKI Jakarta",32
+81,Judith Thompson,"Bandung, Jawa Barat",29
+82,Jennifer Stewart,"Surabaya, Jawa Timur",24
+83,Hannah Bennett,"Bekasi, Jawa Barat",32
+84,Lori Wilson,"Yogyakarta, DIY",35
+85,Kayla Gray,"Bogor, Jawa Barat",31
+86,Vincent Turner,"Depok, Jawa Barat",32
+87,Kyle Reed,"Jakarta Pusat, DKI Jakarta",30
+88,Anthony Butler,"Jakarta Timur, DKI Jakarta",27
+89,Ryan Lee,"Bekasi, Jawa Barat",35
+90,Megan Johnson,"Semarang, Jawa Tengah",29
+91,Timothy Campbell,"Yogyakarta, DIY",32
+92,Elijah Ortiz,"Cirebon, Jawa Barat",39
+93,Nicole White,"Lampung, Sumatera Selatan",18
+94,Alice Collins,"Semarang, Jawa Tengah",34
+95,Andrew Campbell,"Subang, Jawa Barat",27
+96,Logan Evans,"Jakarta Barat, DKI Jakarta",19
+97,Charles Morgan,"Bekasi, Jawa Barat",38
+98,Lisa Stewart,"Lampung, Sumatera Selatan",28
+99,Andrea Price,"Palembang, Sumatera Selatan",33
+100,Catherine King,"Bogor, Jawa Barat",28
+101,Nicholas Jackson,"Sragen, Jawa Tengah",39
+102,Daniel Reyes,"Ponorogo, Jawa Timur",21
+103,Gary Allen,"Depok, Jawa Barat",30
+104,Matthew Garcia,"Jakarta Selatan, DKI Jakarta",27
+105,Marilyn Morales,"Bekasi, Jawa Barat",37
+106,Donald Hill,"Ponorogo, Jawa Timur",32
+107,Christopher Miller,"Sragen, Jawa Tengah",24
+108,Emma Hill,"Klaten, Jawa Tengah",33
+109,Sean Torres,"Solo, Jawa Tengah",18
+110,Anthony Thompson,"Tanggerang, Banten",39
+111,Willie Baker,"Serang, Banten",38
+112,Noah Rogers,"Cilacap, Jawa Tengah",18
+113,Brandon James,"Semarang, Jawa Tengah",38
+114,Laura Parker,"Yogyakarta, DIY",39
+115,Christina Morgan,"Kota Gede, DIY",26
+116,Gloria Ramirez,"Cirebon, Jawa Barat",23
+117,Linda Smith,"Subang, Jawa Barat",30
+118,Victoria Nguyen,"Karawang, Jawa Barat",32
+119,Kelly Gray,"Purwakarat, Jawa Barat",25
+120,Lauren Sanchez,"Jakarta Utara, DKI Jakarta",32
+121,Roger Wright,"Jakarta Selatan, DKI Jakarta",35
+122,Carl Hall,"Jakarta Pusat, DKI Jakarta",24
+123,Ralph Walker,"Bekasi, Jawa Barat",32
+124,Catherine Sanchez,"Bogor, Jawa Barat",22
+125,Nathan Adams,"Karawang, Jawa Barat",24
+126,Richard Phillips,"Subang, Jawa Barat",32
+127,Patricia Bailey,"Serang, Banten",38
+128,Amanda Gomez,"Tanggerang, Banten",28
+129,Brian Wilson,"Kota Gede, DIY",29
+130,James Jenkins,"Yogyakarta, DIY",27
+131,Marilyn Myers,"Lampung, Sumatera Selatan",21
+132,Logan Bennett,"Ponorogo, Jawa Timur",31
+133,Teresa Peterson,"Surabaya, Jawa Timur",29
+134,Ronald Lopez,"Nganjuk, Jawa Timur",27
+135,Thomas Rogers,"Madura, Jawa Timur",22
+136,Larry Reed,"Semarang, Jawa Tengah",35
+137,Roger Edwards,"Bandung, Jawa Barat",28
+138,Tyler Hughes,"Yogyakarta, DIY",25
+139,Stephen Howard,"Bekasi, Jawa Barat",33
+140,Debra Stewart,"Surabaya, Jawa Timur",25
+141,Sara Martin,"Kota Gede, DIY",34
+142,Frances Sullivan,"Bekasi, Jawa Barat",29
+143,Joan Scott,"Bogor, Jawa Barat",25
+144,Arthur Bell,"Depok, Jawa Barat",18
+145,Jerry Martinez,"Tanggerang, Banten",37
+146,Olivia King,"Serang, Banten",38
+147,William Diaz,"Semarang, Jawa Tengah",18
+148,Harold Rodriguez,"Bekasi, Jawa Barat",33
+149,Jerry Brown,"Cirebon, Jawa Barat",30
+150,Steven Hall,"Bekasi, Jawa Barat",40
+151,Steven Myers,"Lampung, Sumatera Selatan",36
+152,Emma Cooper,"Jakarta Utara, DKI Jakarta",25
+153,Andrew Reed,"Jakarta Selatan, DKI Jakarta",39
+154,Nicholas Hall,"Bandung, Jawa Barat",31
+155,Robert Walker,"Surabaya, Jawa Timur",37
+156,Stephanie Martin,"Bekasi, Jawa Barat",31
+157,Vincent Sanders,"Yogyakarta, DIY",28
+158,Daniel Gutierrez,"Bogor, Jawa Barat",23
+159,Juan Martinez,"Depok, Jawa Barat",20
+160,Timothy Stewart,"Jakarta Pusat, DKI Jakarta",36
+161,Nicholas Robinson,"Jakarta Timur, DKI Jakarta",33
+162,Christian Allen,"Bekasi, Jawa Barat",25
+163,Jason Sanchez,"Semarang, Jawa Tengah",40
+164,Terry Evans,"Yogyakarta, DIY",19
+165,Andrea Evans,"Cirebon, Jawa Barat",23
+166,Jennifer Foster,"Lampung, Sumatera Selatan",26
+167,Laura Hughes,"Semarang, Jawa Tengah",19
+168,Rachel Moore,"Subang, Jawa Barat",38
+169,Juan Harris,"Jakarta Barat, DKI Jakarta",18
+170,Karen Hall,"Bekasi, Jawa Barat",19
+171,Henry Kelly,"Lampung, Sumatera Selatan",33
+172,Gloria Morales,"Palembang, Sumatera Selatan",34
+173,Cynthia Davis,"Bogor, Jawa Barat",29
+174,Kayla Reed,"Sragen, Jawa Tengah",32
+175,Emma Baker,"Ponorogo, Jawa Timur",36
+176,Jeffrey Edwards,"Depok, Jawa Barat",31
+177,Adam Hernandez,"Jakarta Selatan, DKI Jakarta",35
+178,Kyle Smith,"Bekasi, Jawa Barat",33
+179,Ryan Watson,"Ponorogo, Jawa Timur",27
+180,Billy Rogers,"Sragen, Jawa Tengah",24
+181,Evelyn Perez,"Klaten, Jawa Tengah",29
+182,Thomas Flores,"Solo, Jawa Tengah",34
+183,Christian Edwards,"Tanggerang, Banten",37
+184,Justin Parker,"Serang, Banten",30
+185,Jeremy Jackson,"Cilacap, Jawa Tengah",33
+186,George Nguyen,"Semarang, Jawa Tengah",28
+187,Jane Gonzalez,"Yogyakarta, DIY",25
+188,Keith Morales,"Kota Gede, DIY",37
+189,Amanda Ross,"Cirebon, Jawa Barat",21
+190,Maria Carter,"Subang, Jawa Barat",18
+191,Ashley Reyes,"Karawang, Jawa Barat",32
+192,Cheryl Evans,"Purwakarat, Jawa Barat",37
+193,Jessica Rogers,"Jakarta Utara, DKI Jakarta",20
+194,Johnny Foster,"Jakarta Selatan, DKI Jakarta",31
+195,Jeffrey Ramirez,"Jakarta Pusat, DKI Jakarta",29
+196,Anthony Butler,"Bekasi, Jawa Barat",28
+197,Carolyn Morgan,"Bogor, Jawa Barat",27
+198,Jerry Lee,"Karawang, Jawa Barat",26
+199,Tiffany Clark,"Subang, Jawa Barat",18
+200,Jane Lopez,"Serang, Banten",34
+201,Ronald Thomas,"Bekasi, Jawa Barat",21
+202,Barbara Murphy,"Lampung, Sumatera Selatan",21
+203,Frances Johnson,"Jakarta Utara, DKI Jakarta",24
+204,Barbara Williams,"Jakarta Selatan, DKI Jakarta",21
+205,Albert Johnson,"Bandung, Jawa Barat",24
+206,Joseph Stewart,"Surabaya, Jawa Timur",30
+207,Roy Ross,"Bekasi, Jawa Barat",20
+208,Michelle Brooks,"Yogyakarta, DIY",27
+209,John Powell,"Bogor, Jawa Barat",19
+210,Lawrence Brooks,"Depok, Jawa Barat",18
+211,Barbara Morgan,"Jakarta Pusat, DKI Jakarta",22
+212,Gerald Davis,"Jakarta Timur, DKI Jakarta",28
+213,Jack Cruz,"Bekasi, Jawa Barat",20
+214,Peter Brown,"Semarang, Jawa Tengah",30
+215,Wayne Edwards,"Yogyakarta, DIY",23
+216,Evelyn Edwards,"Cirebon, Jawa Barat",28
+217,Dylan Campbell,"Lampung, Sumatera Selatan",20
+218,Linda Gray,"Semarang, Jawa Tengah",29
+219,Abigail Kelly,"Subang, Jawa Barat",24
+220,Amber Long,"Jakarta Barat, DKI Jakarta",23
+221,Patrick Martinez,"Bekasi, Jawa Barat",30
+222,Jason Foster,"Lampung, Sumatera Selatan",30
+223,Amy Turner,"Palembang, Sumatera Selatan",20
+224,Roger Nelson,"Bogor, Jawa Barat",28
+225,Anthony Long,"Sragen, Jawa Tengah",19
+226,Cynthia Clark,"Ponorogo, Jawa Timur",23
+227,Kayla Ramirez,"Depok, Jawa Barat",25
+228,Pamela Baker,"Jakarta Selatan, DKI Jakarta",18
+229,Beverly Murphy,"Bekasi, Jawa Barat",20
+230,Marilyn Ward,"Ponorogo, Jawa Timur",20
+231,Brenda Howard,"Sragen, Jawa Tengah",28
+232,Keith Cox,"Klaten, Jawa Tengah",30
+233,George Anderson,"Solo, Jawa Tengah",23
+234,Kevin Stewart,"Tanggerang, Banten",27
+235,Hannah White,"Serang, Banten",18
+236,Sean Rivera,"Cilacap, Jawa Tengah",23
+237,Logan Bennett,"Semarang, Jawa Tengah",20
+238,Andrea Johnson,"Yogyakarta, DIY",30
+239,Ethan Hughes,"Kota Gede, DIY",23
+240,Betty Martin,"Cirebon, Jawa Barat",22
+241,Jason Davis,"Subang, Jawa Barat",20
+242,Jacob Evans,"Karawang, Jawa Barat",20
+243,James Diaz,"Purwakarat, Jawa Barat",20
+244,Billy White,"Jakarta Utara, DKI Jakarta",27
+245,Melissa Phillips,"Jakarta Selatan, DKI Jakarta",27
+246,Donna Allen,"Jakarta Pusat, DKI Jakarta",28
+247,Amanda Wright,"Bekasi, Jawa Barat",28
+248,Teresa Martin,"Bogor, Jawa Barat",29
+249,Laura Bennett,"Karawang, Jawa Barat",19
+250,Kayla Jenkins,"Subang, Jawa Barat",27
+251,Kelly Adams,"Semarang, Jawa Tengah",29
+252,Paul Carter,"Bekasi, Jawa Barat",30
+253,Raymond Adams,"Cirebon, Jawa Barat",34
+254,Nicholas Torres,"Bekasi, Jawa Barat",34
+255,Eugene Rivera,"Lampung, Sumatera Selatan",30
+256,Christine Reyes,"Jakarta Utara, DKI Jakarta",39
+257,Shirley Davis,"Jakarta Selatan, DKI Jakarta",25
+258,Madison Stewart,"Bandung, Jawa Barat",38
+259,Nathan Phillips,"Surabaya, Jawa Timur",27
+260,Katherine Harris,"Bekasi, Jawa Barat",33
+261,Natalie Rogers,"Yogyakarta, DIY",38
+262,Donna Morales,"Bogor, Jawa Barat",38
+263,Anthony Nguyen,"Depok, Jawa Barat",27
+264,Albert Wood,"Jakarta Pusat, DKI Jakarta",37
+265,Amy Ward,"Jakarta Timur, DKI Jakarta",30
+266,Anthony Parker,"Bekasi, Jawa Barat",32
+267,Shirley Thompson,"Semarang, Jawa Tengah",31
+268,Jeremy Lopez,"Yogyakarta, DIY",32
+269,Roy Walker,"Cirebon, Jawa Barat",36
+270,James Cruz,"Lampung, Sumatera Selatan",25
+271,Rachel King,"Semarang, Jawa Tengah",37
+272,Steven Cook,"Subang, Jawa Barat",30
+273,Barbara Ward,"Jakarta Barat, DKI Jakarta",33
+274,Jeremy Jackson,"Bekasi, Jawa Barat",38
+275,Amanda Morales,"Lampung, Sumatera Selatan",34
+276,Ruth Smith,"Lampung, Sumatera Selatan",39
+277,Jesse Morgan,"Jakarta Utara, DKI Jakarta",29
+278,Madison Diaz,"Jakarta Selatan, DKI Jakarta",40
+279,Timothy Collins,"Bandung, Jawa Barat",28
+280,Samuel Anderson,"Surabaya, Jawa Timur",40
+281,Victoria Evans,"Bekasi, Jawa Barat",30
+282,Jane Roberts,"Yogyakarta, DIY",39
+283,Mary Murphy,"Bogor, Jawa Barat",37
+284,Cynthia Scott,"Depok, Jawa Barat",29
+285,Daniel Watson,"Jakarta Pusat, DKI Jakarta",29
+286,Gloria Perry,"Jakarta Timur, DKI Jakarta",35
+287,Noah Clark,"Bekasi, Jawa Barat",27
+288,Brian Rivera,"Semarang, Jawa Tengah",30
+289,Scott Wilson,"Yogyakarta, DIY",35
+290,Nathan Rogers,"Cirebon, Jawa Barat",34
+291,Roger Garcia,"Lampung, Sumatera Selatan",25
+292,Christine Jenkins,"Semarang, Jawa Tengah",29
+293,Jack Harris,"Subang, Jawa Barat",34
+294,Michael Davis,"Jakarta Barat, DKI Jakarta",28
+295,Joe Green,"Bekasi, Jawa Barat",31
+296,Andrew Ortiz,"Lampung, Sumatera Selatan",31
+297,Evelyn King,"Palembang, Sumatera Selatan",39
+298,Emily Wright,"Bogor, Jawa Barat",38
+299,Michael Ortiz,"Sragen, Jawa Tengah",27
+300,Michael Reed,"Ponorogo, Jawa Timur",26
