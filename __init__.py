@@ -11,8 +11,8 @@ def create_app():
 
     secrets_key = secrets.token_hex(16)
 
-    app.config['SECRET_KEY'] = secrets
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://localhost:3360/touristattraction'
+    app.config['SECRET_KEY'] = secrets_key
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root@localhost:3306/touristattraction'
 
     db.init_app(app)
 
