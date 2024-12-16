@@ -14,3 +14,7 @@ def profile():
 @main.route("/home")
 def home():
     return render_template("index.html")
+
+@main.route("/login")
+def login():
+    return render_template("loginForm.html")
