@@ -1,0 +1,98 @@
+{% extends 'base.html' %}
+
+{% block Head %}
+<title>Login</title>
+{% endblock %}
+
+{% block Body %}
+<nav class="navbar navbar-expand-lg navbar-light bg-light position-fixed w-100 z-2">
+    <div class="container d-flex justify-content-between">
+        <a class="navbar-brand" data-bs-toggle="tooltip" data-bs-placement="bottom" title="{{ name }}" href="#">
+            <img src="/static/img/profile-user.png" alt="" width="30" height="30">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Link</a>
+                </li>
+            </ul>
+      </div>
+    </div>
+  </nav>
+  
+  
+<section id="herosection" class=" pt-5" >
+    <div class="d-flex flex-column justify-content-end " style="height:500px;background-image: url('/static/img/{{ heroImg }}');background-size:100%; background-repeat: no-repeat; background-position:center;" >
+        <div class="container" >
+            <h1 class="py-5 bg-light w-75 p-5 rounded-3"><strong>Selamat datang</strong>, <br>{{ name }}</h1>
+        </div>
+    </div>
+</section>
+
+<section class="container mt-5">
+    <h3>Rekomendasi Tempat wisata untuk anda :</h3>
+    <div class="d-flex overflow-x-auto container">
+        <div class="d-grid d-flex gap-3 py-3">
+            {% if not rekomendasi_wisata.empty %}
+                {% for wisata in rekomendasi_wisata %}
+                    <div class="card" style="width: 18rem;">
+                        <div class="card-body">
+                        <h5 class="card-title">{{ wisata["Place_Name"] }}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Rating : {{ wisata["Rating"] }}</h6>
+                        <p class="card-text ">{{ wisata["Description"] }}</p>
+                        
+                        </div>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+</section>
+
+<section class="pt-5 pb-2">
+    <div class="container ">
+        <h3 class="mb-2">Cari tempat wisata berdasarkan deskripsi yang kamu inginkan</h3>
+        <form action="/profile" method="GET">
+            <div class="input-group">
+                <textarea class="form-control" name="query_desc" aria-label="With textarea" placeholder="Deskripsikan tempat wisata keinginanmu"></textarea>
+                <select class="px-2 py-2" name="lokasi">
+                    <option value="Yogyakarta">Yogyakarta</option>
+                    <option value="Surabaya">Surabaya</option>
+                    <option value="Jakarta">Jakarta</option>
+                    <option value="Semarang">Semarang</option>
+                    <option value="Bandung">Bandung</option>
+                </select>
+                <button class="btn btn-outline-secondary" type="submit" id="button-addon2">Cari</button>
+            </div>
+            <!-- <button type="submit">Cari</button> -->
+        </form>
+    </div>
+</section>
+
+
+<section class="container mt-5">
+    <h3>Hasil Pencarian</h3>
+    <!-- Gunakan row dan col Bootstrap -->
+    <div class="row row-cols-1 row-cols-md-3 g-4 py-3">
+        {% if not rekomendasiCBRSs.empty %}
+            {% for wisata in rekomendasiCBRSs %}
+                <div class="col">
+                    <div class="card h-100" style="width: 18rem;">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ wisata["Place_Name"] }}</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Rating : {{ wisata["Rating"] }}</h6>
+                            <p class="card-text">{{ wisata["Description"] }}</p>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        {% endif %}
+    </div>
+</section>  
+{% endblock %}

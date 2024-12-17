@@ -51,7 +51,7 @@ class Users(UserMixin, db.Model):
     id = db.Column(db.Integer, primary_key = True)
     email = db.Column(db.String(255), unique=True, nullable=False)
     password = db.Column(db.String(255),nullable=False)
-    date_created = db.Column(db.DateTime, default=datetime.astimezone)
+    date_created = db.Column(db.DateTime, default=datetime.now)
     users_info = db.relationship('Users_Info', backref='users', uselist=False, cascade="all, delete")
     
     @staticmethod
@@ -168,5 +168,5 @@ class Tourism_With_Id(db.Model):
             print(f"Error saat memasukkan data: {e}")
     #digunkan untuk mencetak string setiap kali membuat elemen baru
     def __repr__(self):
-        return '<Users %r>' % self.id
+        return '<tourism_with_id %r>' % self.place_id
     

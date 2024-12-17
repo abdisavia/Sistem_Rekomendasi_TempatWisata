@@ -5,16 +5,48 @@
 {% endblock %}
 
 {% block Body %}
-<form action="/register" method="post">
-    <label for="name">Name</label>
-    <input type="text" name="name" required>
-    <label for="borndate">Born Date</label>
-    <input type="date" name="borndate" required>
-    <label for="email">email</label>
-    <input type="email" name="email" required>
-    <label for="password">password</label>
-    <input type="password" name="password" required>
-    <button type="submit">Submit</button>
-    <p>Already have account? <a href=""></a></p>
-</form>
+    <div class="container mt-5">
+        <h2 class="text-primary">Registration Form</h2>
+        <hr>
+        {% with messages = get_flashed_messages(with_categories=True) %}
+
+        {% if messages %}
+            <div>
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }}">{{ message }}</div>
+                {% endfor %}
+            </div>
+        {% endif %}
+        {% endwith %}
+        <form method="POST" action="/signup">
+            <div class="mb-3">
+                <label for="name" class="form-label text-secondary">Nama</label>
+                <input type="text" class="form-control border-primary" id="name" name="name" placeholder="Enter your name">
+            </div>
+            <div class="mb-3">
+                <label for="email" class="form-label text-secondary">Email</label>
+                <input type="email" class="form-control border-primary" id="email" name="email" placeholder="Enter your email">
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label text-secondary">Password</label>
+                <input type="password" class="form-control border-primary" id="password" name="password" placeholder="Enter your password">
+            </div>
+            <div class="mb-3">
+                <label for="location" class="form-label text-secondary">Lokasi saat ini</label>
+                <select type="" class="form-control border-primary" id="location" name="location" placeholder="Pilih lokasimu">
+                    <option value="Jakarta">Jakarta</option>
+                    <option value="Yogyakarta">Yogyakarta</option>
+                    <option value="Bandung">Bandung</option>
+                    <option value="Semarang">Semarang</option>
+                    <option value="Surabaya">Surabaya</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="Usia" class="form-label text-secondary">Usia saat ini</label>
+                <input type="number" class="form-control border-primary" id="usia" name="usia" placeholder="masukkan usiamu saat ini">
+            </div>
+
+            <button type="submit" class="btn btn-success">Register</button>
+        </form>
+    </div>
 {% endblock %}
